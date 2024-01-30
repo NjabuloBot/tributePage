@@ -1,0 +1,109 @@
+nav{
+    opacity: 0.7;
+    background-color: blue;
+}
+
+h1{
+    text-align: center;
+    font-family: monospace,sans-serif;
+    color: aliceblue;
+    height: 70px;
+    width: 100%;
+    margin-top:0;
+    margin-bottom: 0;
+    padding:30px 0 0 0;
+    font-size: 40px;
+}
+
+.middle-container h2{
+    margin-top: 15px;
+    text-indent: 2em;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blanchedalmond;
+}
+
+.middle-container p{
+    text-indent: 3.5em;
+    color:blanchedalmond;
+}
+
+.middle-container ul{
+    margin-left: 40px;
+    color:blanchedalmond;
+    font-size: 14px;
+}
+
+.middle-container ul li{
+    margin-bottom: 17px;
+}
+
+body{
+    background-color:rgb(41, 9, 71);
+    margin: 0;
+    overflow: hidden;
+}
+
+.right-container{
+    float: right;
+    width: 260px;
+    height: 900px;
+    margin: 0;
+}
+
+.caption{
+    color:antiquewhite;
+    text-align: center;
+    font-weight: 780;
+    margin-top: 10px;
+    margin-right: 30px;
+}
+
+.right-container .image img{
+    width:150px;
+    padding-right:40px;
+}
+
+.right-container p{
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    color: antiquewhite;
+}
+
+.right-container .bold{
+    margin-left: 25px;
+    font-weight: 800;
+}
+
+.right-container .indent{
+    margin-left: 14px;
+    margin-right: 8px;
+}
+
+.last-text{
+    margin-top: 30px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+a{
+    color:aquamarine;
+    text-decoration:dotted;
+}
+a:hover{
+    color: aqua;
+}
+
+.text-header{
+    font-weight: 570;
+}
+
+
+
+
+
+
+
+
+
